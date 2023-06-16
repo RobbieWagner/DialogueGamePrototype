@@ -1,0 +1,3 @@
+[submodule "Assets/restricted"]
+	path = Assets/restricted
+	url = https://github.com/RobbieWagner/DGPRestricted.git
